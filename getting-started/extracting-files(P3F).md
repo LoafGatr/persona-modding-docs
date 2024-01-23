@@ -1,5 +1,5 @@
 ---
-title: Extracting The Game's Files (P3F using PCX2)
+title: Extracting The Game's Files P3F
 layout: page
 parent: Getting Started
 nav_order: 1
