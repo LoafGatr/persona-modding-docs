@@ -29,14 +29,11 @@ games: ['P3F']
 - PS2 BIOS - You will have to get it through a physical PS2, follow this guide from [P3F Community Enchancement Pack Guide](https://p3f.cep.one/install/dump-ps2-bios)
 - P3FES rom - **You will have to find that rom for yourself.**
 
-{: .info }
+{: .todo }
 > To dos
 > Set up bios > Get Rom > Set up HostFS > Download necessary Pnach files for testing* (Might need to see if this necessary as a separate page)
 
 ## Set up Bios
-
-{: .info }
-> **You are on your own when obtaining the rom for P3FES.**
 
 ## Load Rom
 
@@ -58,10 +55,7 @@ This will reveal the *Game Region* section.
 
 ![]({%link assets/images/getting-started/setting-up-PCX2/Getting-Hostfs-Through-ShrineFox-Game-Region.PNG %})
 
-{: .info }
-> Currently, there is only one option available which is **USA**
-
-There's nothing to change for this option so click **Next**.
+Currently, there is only one option available which is **USA**. There's nothing to change for this option so click **Next**.
 
 If you followed the steps so far, this is what your page should look like:
 
@@ -83,16 +77,5 @@ From there click **Download PNACH** and download the file.
 
 It is recommended to add the name of what patches you have selected at the end of the file such as ``94A82AAA_HostFs.pnach``.
 
-
----
-
-## Organizing Files
-
-The next set of steps will involve a lot of file moving so it is best to keep everything into one folder so that you know where everything is located and where to find it.
-
-Create a folder and title it 
-
-
-
-
-
+{: .info}
+> Create a folder where you can save these ``PNACH`` files. That way, if you want to download other ``PNACH`` files you can save them without having to download them again.
