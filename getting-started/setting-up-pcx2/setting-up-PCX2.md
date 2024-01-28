@@ -33,8 +33,6 @@ games: ['P3F']
 > To dos
 > Set up bios > Get Rom > Set up HostFS > Download necessary Pnach files for testing* (Might need to see if this necessary as a separate page)
 
-Oh hai this is future Loaf, Imma be real. We're gonna work on this tomorrow after my shift. I am so fucking distracted rn, it is unreal.
-
 ## Set up Bios
 
 {: .info }
