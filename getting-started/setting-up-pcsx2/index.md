@@ -1,5 +1,5 @@
 ---
-title: Setting up PCX2
+title: Setting up PCSX2
 layout: page
 nav_order: 3
 has_children: true
